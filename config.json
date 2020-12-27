@@ -9,13 +9,14 @@
           {
             "id": "d9192800-7fa8-4c16-a66f-5ffc812c35ca",
             "alterId": "0",
-            "flow": ""
+            "flow": "xtls-rprx-direct"
           }
         ],
         "decryption": "none"
       },
       "streamSettings": {
         "network": "ws",
+        "security": "xtls",
         "wsSettings": {
         "path": "/sxiaonuo"
         }
