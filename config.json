@@ -9,16 +9,16 @@
           {
             "id": "d9192800-7fa8-4c16-a66f-5ffc812c35ca",
             "alterId": "0",
-            "flow": "xtls-rprx-direct"
+            "flow": ""
           }
         ],
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "tcp",
+        "network": "ws",
         "security": "xtls",
-        "xtlsSettings": {
-        
+        "wsSettings": {
+        "path": "/dfgfg"
         }
       }
     }
