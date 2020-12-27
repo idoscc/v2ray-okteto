@@ -15,7 +15,7 @@
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "tcp",
         "security": "xtls",
         "wsSettings": {
         "path": "/sxiaonuo"
