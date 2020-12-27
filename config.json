@@ -16,8 +16,9 @@
       },
       "streamSettings": {
         "network": "tcp",
-        "wsSettings": {
-        "path": "/sxiaonuo"
+        "security": "xtls",
+        "xtlsSettings": {
+        
         }
       }
     }
